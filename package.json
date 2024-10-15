@@ -1,7 +1,7 @@
 {
   "name": "qrip",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,9 +12,9 @@
   "dependencies": {
     "@tauri-apps/api": ">=2.0.0",
     "@tauri-apps/plugin-shell": ">=2.0.0",
+    "qrcode.react": "^4.0.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-qr-code": "^2.0.15"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": ">=2.0.0",
@@ -25,3 +25,4 @@
     "vite": "^5.3.1"
   }
 }
+
