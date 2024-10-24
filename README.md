@@ -1,7 +1,13 @@
-# Tauri + React + Typescript
+![](./public/screenshot.png)
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+# QRIP - QR Code Generator
 
-## Recommended IDE Setup
+QRIP is a simple desktop application for generating QR Codes for anything you want.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Installation
+
+Please download from the Release page. QRIP supports the following platforms:
+
+- Windows x64
+- Linux x64
+
