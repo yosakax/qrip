@@ -1,6 +1,6 @@
 [package]
 name = "qrip"
-version = "0.2.0"
+version = "0.3.0"
 description = "QRIP - simple QR Code Generator"
 authors = ["yosakax"]
 edition = "2021"
